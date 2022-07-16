@@ -1,16 +1,18 @@
 ###Techspot - a web template
 Hi and thanks for viewing this project,this is a web template made with HTML and CSS by Dhela Frank, any feedback and suggestions is greatly appreciated.
 
+#please note, when viewing the html page, be connected to the internet for full functionality
+
 ##Color Palette used
 
     1. #7755F0
-    2. #ED3CC5
-    3. #FF5290
-    4. #FF8B64
+    2. #0096AC
+    3. #0089FF
+    4. #4A4453
 <br>
 
-##Tools Used
+##Location of resources gathered Used
 
-    1. [Heroicons](https://heroicons.com) for SVG Icons
-    2. [Flevix](https://flevix.com) for SVG Backgrounds
-    3. [myColor](https://mycolor.space)for pallete generation
+    1. Heroicons for SVG Icons
+    2. Flevix for SVG Backgrounds
+    3. myColor for pallete generation
