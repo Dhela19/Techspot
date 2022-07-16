@@ -1,5 +1,5 @@
 body{
-          background-color:black;
+          background-color:white;
           /* background-image:url("./images/background.svg")  */
           padding:0px;
           margin:0px;
@@ -18,4 +18,19 @@ body{
 #navbar{
           border-bottom:2px solid #0089FF;
           padding-bottom:10px;
+          display:flex;
+}
+#nav_icons{
+          display:flex;
+          margin:auto;
+          justify-content:flex-end;
+          align-items:center;
+          margin-bottom:5px;
+}
+.main_icons{
+          height:3%;
+          width:3%;
+          margin:auto 100px;
+          border:0px;
+          
 }
