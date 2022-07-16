@@ -1,4 +1,9 @@
-.body{
-          background-image:url(./images/background.svg)
-
+body{
+          background-image:url("./images/background.svg") 
+}
+#blog_name{
+          text-align:center;
+          font-size:20px;
+          font-weight:600;
+          color:#ED3CC5;
 }
