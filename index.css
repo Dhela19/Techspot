@@ -8,29 +8,34 @@ body{
           text-align:left;
           font-size:40px;
           font-weight:600;
-          color:#0089FF;
+          color:#042746;
           padding-top:0px;
           padding-left:5px;
           margin:2px;
-          font-family:cambria;
+          font-family:Verdana, Geneva, Tahoma, sans-serif;
           text-decoration-line:underline;
 }
 #navbar{
-          border-bottom:2px solid #0089FF;
+          border-bottom:2px solid #7755F0;
           padding-bottom:10px;
           display:flex;
+          position:fixed;
+          top:0;
+          right:0;
+          left:0;
+          background-color:#0096AC;
 }
 #nav_icons{
           display:flex;
           margin:auto;
-          justify-content:flex-end;
-          align-items:center;
+          flex-flow:row;
+          justify-content:center;
+          align-items:right;
           margin-bottom:5px;
 }
 .main_icons{
-          height:3%;
-          width:3%;
-          margin:auto 100px;
+          
+          margin:auto;
           border:0px;
           
 }
