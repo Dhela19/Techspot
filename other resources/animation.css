@@ -1,0 +1,40 @@
+#search_img:active{
+          /*height:45px;*/
+          background-color:#042746;
+          border-radius:150px;
+}
+#home:hover{
+          border:none;
+          border-bottom:2px solid black;
+          margin-top:5px;
+          
+
+}
+#home:active{
+          background-color:#04274667;
+          border-radius:20px;
+}
+#feeds:hover{
+          border:none;
+          border-bottom:2px solid black;
+          margin-top:3px;
+          padding-bottom:2px;
+          
+
+}
+#feeds:active{
+          background-color:#04274667;
+          border-radius:20px;
+}
+#profile:hover{
+          border:none;
+          border-bottom:2px solid black;
+          margin-top:3px;
+          padding-bottom:2px;
+          
+
+}
+#profile:active{
+          background-color:#04274667;
+          border-radius:20px;
+}
